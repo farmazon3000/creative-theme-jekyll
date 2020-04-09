@@ -1799,3 +1799,6 @@
 .fa-medium:before {
   content: "\f23a";
 }
+.fa-comments-dollar:before {
+  content:"\f653";
+}
