@@ -1,12 +1,15 @@
 # Site settings
-title:
-email:
+title: Rozwiązywanie zadań z matematyki
+email: 2plus3plus4@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
+  Ekspresowe rozwiązywanie zadań z matematyki przez zawodowca z ogromnym doświadczeniem. Pomoc w rozwiązywaniu zadań z matematyki. Rozwiązywanie zadań studia. Algebra liniowa. Analiza matematyczna.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
-twitter_username:
-github_username:
+youtube_channel_name: MathTube
+youtube_channel_id: UCudqHTl0TY7G3CuCT_flW3w
+#google_plus_id: 108578977227886816248
+telephone: 603 646 830
 
 # Build settings
 markdown: kramdown
