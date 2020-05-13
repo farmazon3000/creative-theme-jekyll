@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
-email: 2plus3plus4@gmail.com
+email: zadania@matmomat.pl
 youtube_channel_name: MathTube
 youtube_channel_id: UCudqHTl0TY7G3CuCT_flW3w
 #google_plus_id: 108578977227886816248
