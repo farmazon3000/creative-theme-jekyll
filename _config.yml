@@ -1,7 +1,6 @@
 # Site settings
 title: Rozwiązywanie zadań z matematyki
-description: > # this means to ignore newlines until "baseurl:"
-  Rozwiązywanie zadań z matematyki przez zawodowca z ogromnym doświadczeniem. Pomoc w rozwiązywaniu zadań z matematyki. Rozwiązywanie zadań studia. Pomoc z matematyki.
+description: Rozwiązywanie zadań z matematyki. Pomoc w rozwiązywaniu zadań matematycznych. Pomoc z matematyki.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
